@@ -1,0 +1,12 @@
+h1. ED Member Group List field type
+
+Lets you pick a member group ID as a custom field
+
+h2. Installation
+
+# Copy the @ft.ed_mgroup_list.php@ file into your thirdparty folder
+# Enable the field type from the addons control panel tab
+
+h2. Usage
+
+Gives a dropdown box for member groups, outputs the member group ID in the tag in the template.
